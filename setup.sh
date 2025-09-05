@@ -12,3 +12,4 @@ npm install mineflayer mineflayer-pathfinder mineflayer-collectblock prismarine-
 
 echo "Setup complete! You can now run the bot using 'node bot.js'."
 
+node /bot.js
